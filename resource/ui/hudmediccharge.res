@@ -101,7 +101,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont72"
+		"font"										"surface26"
+		"font_minmode"								"helvetica32"
 		"fgcolor"									"Extra Shadow"
 		"alpha"										"0"
 
