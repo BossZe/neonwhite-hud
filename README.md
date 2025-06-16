@@ -1,3 +1,12 @@
-# I DONT OWN THIS HUD AND WAS OWNED BY pyroman50 and tekunotri
+# neonwhite hud (BossZe edit)
 
-this is my version of neonwhite hud for change some fonts or smth make it better for me ig [crosshair is good fr me :trollface:]
+my version of neonwhite hud for fix some hud element and edit some stuff for using my own
+also this hud was been about cursed hud for some reason lmao
+
+# DISCLAIMER
+
+i didnt own this repo or many hud element in this fork 
+its already owned by 
+
+- pyroman50 (creator)
+- tekunotri (min mode modifier)
