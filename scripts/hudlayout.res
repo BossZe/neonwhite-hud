@@ -443,14 +443,14 @@
 		"TextFont"									"robo16shadow"
 		"textfont_minmode"							"helvetica11"
 
-		"TeamBlue"									"255 255 255 255"
+		"TeamBlue"									"0 89 255 246"
 		"TeamBlue_minmode"							"m0reBlue"
 
-		"TeamRed"									"255 255 255 255"
+		"TeamRed"									"255 28 28 255"
 		"TeamRed_minmode"							"m0reRed"
 
 		"IconColor"									"0 0 0 255"
-		"LocalPlayerColor"							"255 255 255 255"
+		"LocalPlayerColor"							"0 0 0 255"
 
 		"BaseBackgroundColor"						"240 240 240 100"
 		"BaseBackgroundColor_minmode"				"TransparentLightBlack"
