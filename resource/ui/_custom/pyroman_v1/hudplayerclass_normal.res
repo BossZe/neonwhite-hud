@@ -130,21 +130,22 @@
 	{
 		"visible_minmode" "1"
 	}
-	"niko"
-	{
-		"zpos"			"-3"
-		"visible_minmode"								"1"
-	}
-	"nikobuff"
-	{
-		"zpos"			"-3"
-		"visible_minmode"								"0"
-	}
-	"nikohurt"
-	{
-		"zpos"			"-3"
-		"visible_minmode"								"0"
-	}
+	// Replaced into hudplayerhealth
+//	"niko"
+//	{
+//		"zpos"			"-3"
+//		"visible_minmode"								"1"
+//	}
+//	"nikobuff"
+//	{
+//		"zpos"			"-3"
+//		"visible_minmode"								"0"
+//	}
+//	"nikohurt"
+//	{
+//		"zpos"			"-3"
+//		"visible_minmode"								"0"
+//	}
 	"mumei"
 	{
 		"visible_minmode"								"1"

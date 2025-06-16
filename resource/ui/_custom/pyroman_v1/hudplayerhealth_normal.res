@@ -25,6 +25,21 @@
 		"visible"									"0"
 		"visible_minmode"							"1"
 	}
+	"niko"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
+	"nikobuff"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
+	"nikohurt"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
 	//==================================================================================================================================================
 	// HEALTH ANCHOR
 	// This element can be used to move all the health elements at the same time

@@ -130,27 +130,28 @@
 	{
 		"visible_minmode" "0"
 	}
-	"niko"
-	{
-		"xpos_minmode"								"c-180"
-		"ypos_minmode"								"c55"
-		"zpos"			"-3"
-		"visible_minmode"								"1"
-	}
-	"nikobuff"
-	{
-		"xpos_minmode"								"c-180"
-		"ypos_minmode"								"c55"
-		"zpos"			"-3"
-		"visible_minmode"								"1"
-	}
-	"nikohurt"
-	{
-		"xpos_minmode"								"c-180"
-		"ypos_minmode"								"c55"
-		"zpos"			"-3"
-		"visible_minmode"								"1"
-	}
+	// Replaced into hudplayerhealth
+//	"niko"
+//	{
+//		"xpos_minmode"								"c-180"
+//		"ypos_minmode"								"c55"
+//		"zpos"			"-3"
+//		"visible_minmode"								"1"
+//	}
+//	"nikobuff"
+//	{
+//		"xpos_minmode"								"c-180"
+//		"ypos_minmode"								"c55"
+//		"zpos"			"-3"
+//		"visible_minmode"								"1"
+//	}
+//	"nikohurt"
+//	{
+//		"xpos_minmode"								"c-180"
+//		"ypos_minmode"								"c55"
+//		"zpos"			"-3"
+//		"visible_minmode"								"1"
+//	}
 	"mumei"
 	{
 		"visible_minmode"								"0"

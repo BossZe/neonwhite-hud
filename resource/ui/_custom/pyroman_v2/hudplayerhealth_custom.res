@@ -36,6 +36,21 @@
 		"visible"									"0"
 		"visible_minmode"							"1"
 	}
+	"niko"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
+	"nikobuff"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
+	"nikohurt"
+	{
+		"visible"									"0"
+		"visible_minmode"							"1"
+	}
 	
 	//==================================================================================================================================================
 	// STATUS ICONS ANCHOR

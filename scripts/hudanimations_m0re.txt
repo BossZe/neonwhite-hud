@@ -11,19 +11,19 @@ event DamagedPlayer
 event HudHealthBonusPulse
 {
     //====Main   Stuff====
-	Animate White-Normal Alpha "0" Linear 0.0 0.0
-    	Animate White-Buff   Alpha "255" Linear 0.0 0.0
+	Animate White-Normal 							Alpha "0" Linear 0.0 0.0
+    	Animate White-Buff   						Alpha "255" Linear 0.0 0.0
 	//====Normal Health====
-	Animate	NWheart						Alpha		"0"								Linear 	0.0 	0.0
-	Animate	NWheart_f					Alpha		"0"								Linear 	0.0 	0.0
-	Animate	NWheart_f_B					Alpha		"0"								Linear 	0.0 	0.0
+	Animate	NWheart									Alpha		"0"								Linear 	0.0 	0.0
+	Animate	NWheart_f								Alpha		"0"								Linear 	0.0 	0.0
+	Animate	NWheart_f_B								Alpha		"0"								Linear 	0.0 	0.0
     //====Buff  Health=====
-    Animate	NWheartbuff					Alpha		"255"								Linear 	0.0 	0.0
-	Animate	NWheartbuff_f					Alpha		"255"								Linear 	0.0 	0.0
-	Animate	NWheartbuff_f_B					Alpha		"255"								Linear 	0.0 	0.0
+    Animate	NWheartbuff								Alpha		"255"								Linear 	0.0 	0.0
+	Animate	NWheartbuff_f							Alpha		"255"								Linear 	0.0 	0.0
+	Animate	NWheartbuff_f_B							Alpha		"255"								Linear 	0.0 	0.0
 
-	Animate	niko				Alpha		"0"								Linear	0.0		0.0
-	Animate	nikobuff			Alpha		"255"								Linear	0.0		0.0
+	Animate	niko									Alpha		"0"								Linear	0.0		0.0
+		Animate	nikobuff								Alpha		"255"								Linear	0.0		0.0
 
     //==Other Shit==
 	Animate	PlayerStatusHealthBonusImage			Alpha		"255"								Linear	0.0		0.2
@@ -63,7 +63,7 @@ event HudHealthBonusPulseStop
 	Animate	NWheartbuff_f_B					Alpha		"0"								Linear 	0.0 	0.0
 
 	Animate	niko				Alpha		"255"								Linear	0.0		0.0
-	Animate	nikobuff			Alpha		"0"								Linear	0.0		0.0
+		Animate	nikobuff			Alpha		"0"								Linear	0.0		0.0
 
     //==Other Shit==
 	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
